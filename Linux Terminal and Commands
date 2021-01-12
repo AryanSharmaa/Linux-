@@ -22,3 +22,15 @@ i) What if you execute the cd command without any destination? Can you try it an
 ii) Can you try the ls command with a directory name?
 
 iii) Experiment with the cd and ls commands with different arguments.
+
+
+NOTE:
+If you don’t provide any argument to the cd command, it defaults to the user’s home directory. The ls command defaults to the present working directory.
+
+There is a symbol to denote a user’s home directory. The tilde (~) sign.
+
+cd ~ will take you to your home directory.
+
+ls ~ will list the contents of your home directory.
+
+
