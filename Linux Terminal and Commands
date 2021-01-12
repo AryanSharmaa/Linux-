@@ -15,3 +15,10 @@
 3. cd
    You can change to a different directory using the cd command (short for change directory).
 
+
+Default arguments
+i) What if you execute the cd command without any destination? Can you try it and see where it takes you? (Hint: Use pwd to check where you were taken to)
+
+ii) Can you try the ls command with a directory name?
+
+iii) Experiment with the cd and ls commands with different arguments.
