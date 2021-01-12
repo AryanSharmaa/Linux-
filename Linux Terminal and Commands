@@ -1,0 +1,17 @@
+ Linux has a CLI (command line interface). In this tutorial, we are going to cover the basic commands that we use in the shell of Linux.
+ To open the terminal, press Ctrl+Alt+T in Ubuntu, or press Alt+F2, type in gnome-terminal, and press enter.
+ 
+ Basic Commands:
+ 1. pwd
+    You can use the pwd command to print the working directory..
+
+
+2. ls
+   To list the contents of a directory, you use the ls command (short for list). 
+   When you run the ls command without any arguments, it lists the contents of the present working directory by default.
+   The output of the ls command is formatted differently based on the file type.
+
+
+3. cd
+   You can change to a different directory using the cd command (short for change directory).
+
