@@ -14,6 +14,9 @@
 
 3. cd
    You can change to a different directory using the cd command (short for change directory).
+   
+4. mkdir
+   This command is used to create a new directory.
 
 
 Default arguments
